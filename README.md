@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ravi-mmd
+- 👀 I’m interested in python
+- 🌱 I’m currently learning react
